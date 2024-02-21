@@ -78,12 +78,12 @@
 	"glinet,gl-ar300m-nand": "glinet,gl-ar300m-lite",
 	"glinet,gl-ar300m-nor": "glinet,gl-ar300m-lite",
 	"glinet,gl-ar300m16": "glinet,gl-ar300m-lite",
-	"glinet,gl-ar750": {
+	"glinet,gl-mt3000": {
 		"mode": {
 			"keys": [ "mode" ],
 			"positions": {
-				"lo": "clear",
-				"hi": "dot"
+				"lo": "dot",
+				"hi": "clear"
 			}
 		}
 	},
